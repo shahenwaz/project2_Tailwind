@@ -27,6 +27,9 @@ Tailwind CSS can be customized using the tailwind.config.js file to tailor the f
 
 **Tailwind CSS Official Documentation**: [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
 
+**YouTube** - [PW Skills Tech](https://youtu.be/MiR1dyW45Uw?si=FX3upcWo-1_sDmkz)
+**Images** - [Freepik Image for card background](https://img.freepik.com/free-vector/white-abstract-background_23-2148829806.jpg?size=626&ext=jpg&ga=GA1.1.672697106.1717200000&semt=ais_user)
+
 # Repository Author
 
 **Shahenwaz Muzahid** <br>
